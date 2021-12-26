@@ -1,10 +1,10 @@
-# Q2
+# Bayesian
 # Gaussian
 import numpy as np
 import scipy.io
 import math
 
-email_dataset = scipy.io.loadmat('/Users/fuyalun/Documents/EE5907-PR/FU YALUN_A0232841L_CA1/src/spamData.mat')
+email_dataset = scipy.io.loadmat('/spam/src/spamData.mat')
 
 x_train = np.log(np.array(email_dataset["Xtrain"]) + 0.1) # Import data into a matrix
 y_train = np.array(email_dataset["ytrain"])
