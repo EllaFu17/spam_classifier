@@ -39,7 +39,7 @@ def class0(a):
 
 if __name__ == '__main__':
     # Import data into a matrix
-    email_dataset = scipy.io.loadmat('/Users/fuyalun/Documents/EE5907-PR/FU YALUN_A0232841L_CA1/src/spamData.mat')
+    email_dataset = scipy.io.loadmat('spam/src/spamData.mat')
     x_train00 = np.array(email_dataset[ "Xtrain" ])
     y_train = np.array(email_dataset[ "ytrain" ])
     x_test00 = np.array(email_dataset[ "Xtest" ])
