@@ -1,4 +1,3 @@
-# Q3
 # Logistic Regression
 import numpy as np
 import scipy.io
