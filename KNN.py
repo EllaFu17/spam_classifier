@@ -1,4 +1,3 @@
-# Q4
 # KNN
 import numpy as np
 import heapq
