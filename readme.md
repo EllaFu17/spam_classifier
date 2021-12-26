@@ -1,4 +1,4 @@
-Make Sure the dataset file "spamData.mat" is in the folder <FU YALUN_A0232841L_CA1\src>
+Make Sure the dataset file "spamData.mat" is in the folder <spam\src>
 
 1. Environment:
     Python --version >= 3.7
