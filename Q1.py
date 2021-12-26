@@ -1,4 +1,4 @@
-# Q1
+# Bayesian
 # beta
 import numpy as np
 import scipy.io
