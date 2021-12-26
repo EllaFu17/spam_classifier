@@ -6,7 +6,7 @@ Make Sure the dataset file "spamData.mat" is in the folder <spam\src>
 
 2. Interactive:
     (1) Open Anaconda Prompt or  Python environment prompt
-    (2) Navigate to ..\FU YALUN_A0232841L_CA1\src\
+    (2) Navigate to ..\spam\src\
     (3) Run Q1.py, Q2.py, Q3.py, Q4.py seperately.
 
 3. Description:
